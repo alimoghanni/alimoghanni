@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm Ali Moghanni, a software developer passionate about cr
 
 ## 👨‍💻 What I Do
 
-- 🛠️ I specialize in C/C++ development and API design, with a focus on CAD systems and mathematical modeling.
+- 🛠️ I specialize in C/C++ and Java development and API design, with a focus on CAD systems and mathematical modeling.
 - 🌐 I love working on software architecture and algorithm design, constantly seeking to optimize and innovate.
 - 📱 Experienced in Qt and QML for building cross-platform applications with stunning user interfaces.
 - 🔍 I enjoy diving into data analysis and machine learning, turning data into actionable insights.
